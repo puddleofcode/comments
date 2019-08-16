@@ -1,0 +1,11 @@
+[build]
+  base = "."
+  publish = "comments/"
+  command = "netlify-lambda build src/"
+  functions = "lambda/"
+
+[[redirects]]
+  from = "https://puddleofcode.netlify.com/*"
+  to = "https://puddleofcode.com/:splat"
+  status = 301
+  force = true
