@@ -1,1 +1,14 @@
-{}
+[
+  {
+    "date": "now",
+    "author": "Joe Doe",
+    "description": "This is best comment ever",
+    "gravatar": "b5b8eec3fd886a7d72b3ac29368f5073"
+  },
+  {
+    "date": "now 2",
+    "author": "Edward",
+    "description": "Elo!",
+    "gravatar": "b5b8eec3fd886a7d72b3ac29368f5073"
+  }
+]
