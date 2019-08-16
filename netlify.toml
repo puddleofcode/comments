@@ -5,7 +5,6 @@
   functions = "lambda/"
 
 [[redirects]]
-  from = "https://puddleofcode.netlify.com/*"
-  to = "https://puddleofcode.com/:splat"
+  from = "*"
+  to = "https://puddleofcode.com/"
   status = 301
-  force = true
